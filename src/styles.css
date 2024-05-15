@@ -130,7 +130,7 @@ html {
 }
 .input-group {
     width: 40rem;
-    height: 4.5rem;
+    height: 4rem;
     margin: 2rem 0;
     position: relative;
 }
@@ -162,7 +162,7 @@ html {
 }
 .btn-group {
     width: 40rem;
-    height: 5rem;
+    height: 4rem;
     display: flex;
     justify-content: space-between;
     margin-top: 4rem;
