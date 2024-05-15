@@ -108,16 +108,16 @@ html {
     transition: all 0.5s 0.5s;
 }
 .contact h3 {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     text-transform: uppercase;
     color: #DBAFA0;
 }
 .contact h1 {
-    font-size: 4.5rem;
+    font-size: 3rem;
     font-weight: bold;
     color: #fff;
     letter-spacing: 0.2rem;
-    margin: 2rem 0;
+    margin: 1rem 0;
 }
 .contact p {
     font-size: 1.5rem;
