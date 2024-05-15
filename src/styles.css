@@ -108,19 +108,19 @@ html {
     transition: all 0.5s 0.5s;
 }
 .contact h3 {
-    font-size: 1rem;
+    font-size: 1.6rem;
     text-transform: uppercase;
     color: #DBAFA0;
 }
 .contact h1 {
-    font-size: 3rem;
+    font-size: 4.5rem;
     font-weight: bold;
     color: #fff;
     letter-spacing: 0.2rem;
     margin: 2rem 0;
 }
 .contact p {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     font-weight: bold;
     color: #DBAFA0;
     margin-bottom: 3rem;
@@ -130,7 +130,7 @@ html {
 }
 .input-group {
     width: 40rem;
-    height: 4rem;
+    height: 4.5rem;
     margin: 2rem 0;
     position: relative;
 }
@@ -162,14 +162,14 @@ html {
 }
 .btn-group {
     width: 40rem;
-    height: 4rem;
+    height: 5rem;
     display: flex;
     justify-content: space-between;
     margin-top: 4rem;
 }
 .contact-btn {
     width: 46%;
-    height: 90%;
+    height: 100%;
     border-radius: 4rem;
     color: #fff;
     border: none;
